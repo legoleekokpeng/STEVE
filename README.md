@@ -96,11 +96,6 @@ Computing and Data Science. Three of the four of us had never done a hackathon b
 
 **First Runner-Up out of 24 teams.**
 
-## Team
-
-- [Lee Kok Peng](https://github.com/legoleekokpeng) — team lead, mobile client, model integration
-- _(add your teammates here)_
-
 ## Status
 
 STEVE was built for a hackathon and is not maintained as a product. The code is here because
