@@ -95,10 +95,3 @@ Computing and Data Science. Three of the four of us had never done a hackathon b
 </p>
 
 **First Runner-Up out of 24 teams.**
-
-## Status
-
-STEVE was built for a hackathon and is not maintained as a product. The code is here because
-the ideas in it — moving feedback before the shutter instead of after, and designing an
-integration that stays usable when the model misbehaves — turned out to be the interesting
-part.
